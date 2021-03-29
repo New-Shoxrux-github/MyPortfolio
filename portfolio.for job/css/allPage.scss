@@ -1,0 +1,137 @@
+.serv-index {
+    padding: 18px 0;
+    .for__center {
+        h1 {
+            margin: 0;
+        }
+    }
+}
+
+.my__work .work-html .work-title {
+    margin: 0;
+}
+
+.gallary {
+    .g-blog {
+        span {
+            left: 10px;
+        }
+    }
+}
+
+.contact-info {
+    padding-top: 70px;
+}
+
+.premiere {
+    margin-top: 17%;
+}
+
+.about_me {
+    .album {
+        .text-center {
+            .card-head {
+                .link-css,
+                .link-bootstrap,
+                .link-js,
+                .link-html {
+                    font-size: 70px;
+                }
+                .link-html {
+                    color: #02918c;
+                }
+                .link-html :hover {
+                    color: rgb(233, 125, 2)
+                }
+                .link-bootstrap {
+                    color: #02918c;
+                }
+                .link-css {
+                    color: #02918c;
+                }
+                .link-css:hover {
+                    color: #0c68f1;
+                }
+                .link-bootstrap :hover {
+                    color: #0c68f1;
+                }
+                .link-js {
+                    color: #02918c;
+                }
+                .link-js :hover {
+                    color: rgb(233, 233, 2);
+                }
+            }
+        }
+    }
+}
+
+.about_me {
+    .album {
+        .card {
+            .card-head {
+                .img__icon {
+                    width: 32px;
+                    height: 100%;
+                }
+            }
+        }
+    }
+}
+
+.line__green {
+    background-color: #02918c;
+    height: 4px;
+}
+
+.my__video {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    top: 26%;
+    left: 8%;
+    video {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 30px;
+        border: none;
+        box-shadow: 4px 5px 13px 4px #00000094;
+    }
+    video:hover {
+        border: none;
+        outline: none;
+    }
+    video:focus {
+        border: none;
+        outline: none;
+    }
+    .title__video {
+        background-color: #02918cbf;
+        padding: 4%;
+        h3 {
+            color: beige;
+            text-align: center;
+            font-size: 24px;
+            font-family: sans-serif;
+        }
+    }
+}
+
+.conttell :hover .navbar-nav span {
+    display: block;
+    position: relative;
+}
+
+.nav-item {
+    span {
+        position: absolute;
+        top: 62px;
+        padding: 6px 8px;
+        border-radius: 4px;
+        background-color: #02918c;
+        a {
+            text-decoration: none;
+            color: #f0f0f0;
+        }
+    }
+}
